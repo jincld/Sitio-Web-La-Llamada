@@ -40,12 +40,27 @@ h1{
 .mision-vision-valores{
     display: flex;
     justify-content: space-between;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
     font-size: 18px;
 }
 
-.icono{
-    flex-basis: calc(33.3% - 2rem);
+.seccion h3{
     text-align: center;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+
+.seccion img{
+    padding: 15px;
+    padding-top: 70px;
+    float: left;
+}
+
+.seccion p{
+    padding: 14px;
+}
+
+.seccion p{
+    text-align: left;
 }
