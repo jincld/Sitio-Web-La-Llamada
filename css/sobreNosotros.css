@@ -5,3 +5,47 @@
 .logo1{
     width: 200px;
 }
+
+/*Sobre nosotros*/
+
+.banner{
+    width: 1200px;
+    height: 500px;
+    background-image: url(../img/banner-sobre-nosotros.png);
+    background-position: center;
+}
+
+.title{
+    text-align: center;
+    padding: 170px;
+    color: white;
+}
+
+h1{
+    font-size: 80px;
+}
+
+.information{
+    padding: 40px;
+    font-size: 20px;
+}
+
+/*mision, vision y valores*/
+
+.seccion{
+    margin: 10px;
+    margin-bottom: 10px;
+}
+
+.mision-vision-valores{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 18px;
+}
+
+.icono{
+    flex-basis: calc(33.3% - 2rem);
+    text-align: center;
+}
