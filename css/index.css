@@ -1,0 +1,81 @@
+.espacio{
+    font-size: 300px;
+}
+
+.menu{
+    position: fixed;
+    top: 0; 
+    z-index:99999;
+}
+
+.logo1{
+    width: 200px;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #0D6EFD;
+}
+
+.parrafo{
+    text-align: center;
+    font-size: 17px;
+    color: #111111;
+}
+
+.recs{
+    width: 25%;
+}
+
+.colRec{
+    background-color: #ffffff;
+    margin: 40px;
+    border: solid 1px #000000;
+    border-radius: 5%;
+    padding: 15px;
+    text-align: center;
+}
+
+.cont1{
+    width: 85%;
+}
+
+.textoTsm{
+    font-size: 17px;
+    color: #111111;
+    padding: 10px;
+}
+
+.textoTarjeta{
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.recs{
+    width: 25%;
+}
+
+.cont2{
+    display: flex;
+    align-items: center;
+    background-color: #66CED6;
+}
+
+.cont3{
+    margin: 5px;
+}
+
+.imagen{
+    width: 50%;
+    margin-left: -12px;
+}
+
+.title2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #0D6EFD;
+}
