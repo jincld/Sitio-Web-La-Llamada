@@ -15,14 +15,11 @@
     background-position: center;
 }
 
-.title{
+.title h1{
     text-align: center;
     padding: 170px;
     color: white;
-}
-
-h1{
-    font-size: 80px;
+    font-size: 100px;
 }
 
 .information{
@@ -43,6 +40,7 @@ h1{
     padding-left: 200px;
     padding-right: 200px;
     font-size: 18px;
+    text-align: justify;
 }
 
 .seccion h3{
