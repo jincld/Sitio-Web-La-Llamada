@@ -9,7 +9,7 @@
 /*Sobre nosotros*/
 
 .banner{
-    width: 1200px;
+    width: 1500px;
     height: 500px;
     background-image: url(../img/banner-sobre-nosotros.png);
     background-position: center;
@@ -17,7 +17,7 @@
 
 .title h1{
     text-align: center;
-    padding: 170px;
+    padding: 180px;
     color: white;
     font-size: 100px;
 }
@@ -41,6 +41,7 @@
     padding-right: 200px;
     font-size: 18px;
     text-align: justify;
+    flex-wrap: wrap;  
 }
 
 .seccion h3{
