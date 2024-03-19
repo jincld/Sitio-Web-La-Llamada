@@ -22,8 +22,21 @@
     font-size: 100px;
 }
 
-.information{
-    padding: 40px;
+.img-info{
+    width: 100px;
+    height: 100px;
+    padding-left: 150px;
+    align-items: center;
+}
+
+.information-text{
+    color: #000;
+    flex-wrap: wrap;
+    display: flex;
+    text-align: left;
+    position: relative;
+    padding-left: 800px;
+    padding-right: 100px;
     font-size: 20px;
 }
 
